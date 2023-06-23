@@ -1,0 +1,12 @@
+[general]
+singleton=false
+load_once=true
+symbol_prefix="godot_"
+
+[entry]
+X11.64="res://mod.so"
+Windows.64="res://mod.dll"
+OSX.64="res://mod.dylib"
+
+[source_files]
+# list your source files here
